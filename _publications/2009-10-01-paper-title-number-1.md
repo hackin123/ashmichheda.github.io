@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "A Study on Vision Based Sign Language Translation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/VBSLT
+excerpt: 'Vision based sign language translation system performs automatic translation of Indian Sign Language (ISL) into text for the aid in conversation from dumb/mute people to other people.'
+date: 2016-03-01
+venue: 'International Journal of Computer Science and Information Technologies'
+paperurl: 'http://ijcsit.com/docs/Volume%207/vol7issue2/ijcsit2016070224.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about computer based Vision based sign language translation system for automatic translation of Indian Sign Language (ISL) into text. This will assist the hearing/speech impaired people to significantly communicate with all other people using their hand gestures, and will make the communication effective and efficient. It will also eliminate the need of human translator and will enable the hearing and/or speech impaired people to communicate independently.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://ashmichheda.github.io/files/VBSLT.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Prof. Bhakti Palkar, Ashmi Chheda, Siddhi Barbhaya, Janvi Beed, "A Study on Vision Based Sign Language Translation, 2016, International Journal of Computer Science and Information Technologies.
