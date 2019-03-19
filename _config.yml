@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Ashmi Chheda"
   avatar           : "profile.png"
-  bio              : "Currently working at Accenture as a Software Engineer"
+  bio              : "Software Engineer @Accenture"
   location         : "Mumbai, Maharashtra, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3kON5bAAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Ashmi_Chheda"
   uri              :
@@ -101,14 +100,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://in.linkedin.com/in/ashmichheda" 
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ashmichheda"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ashmichheda"
   vine             :
   weibo            :
   xing             :
