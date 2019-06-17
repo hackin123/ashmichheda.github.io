@@ -5,7 +5,8 @@ permalink: /projects/
 tagline: What am i building
 ---
 
-(https://ashmichheda.github.io/images/github.png) ## [MIT-x Python Programming](https://github.com/ashmichheda/MITx-6.00.1x-python-programming)
+![GitHub](https://ashmichheda.github.io/images/github.png)
+## [MIT-x Python Programming](https://github.com/ashmichheda/MITx-6.00.1x-python-programming)
 
 My work developed while learning Python on edX course - Comuter Science and Programming using Python.
 **Keywords**: Python
