@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-If i were to define myself in one word, I'd say Curious!<br/>
+If i were to define myself in one word, I'd say Curious!
+
 I will be pursuing MS(thesis) program in Computer Science at Arizona State University for Fall 2019.
+
 I am a passionate Software Developer and have developed a keen interest in Machine Learning. Primarily, my interests lie in Machine Learning, Software Engineering and designing large-scale systems.
 
 I've worked for 3 years at [Accenture](https://www.accenture.com/in-en) as a Software Engineer for [J.P. Morgan Chase & Co](https://www.jpmorganchase.com) client on multiple projects, in the Corporate & Investment Banking (CIB) segment. I've worked on technologies such as Java, Ember JS, Spring MVC and JavaScript. I completed my Bachelor of Engineering in Computer Engineering from [K. J. Somaiya College of Engineering](https://www.somaiya.edu/kjsce) in 2016.
