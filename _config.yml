@@ -11,7 +11,7 @@ title                    : "Ashmi Chheda"
 title_separator          : "-"
 name                     : &name "Ashmi Chheda"
 description              : &description "Software Engineer, Accenture"
-url                      : https://ashmichheda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ashmichheda.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashmichheda/ashmichheda.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ashmi Chheda"
   avatar           : "ashmi_profile.jpg"
-  bio              : "Software Engineer @Accenture"
+  bio              : "Software Engineer, Accenture"
   location         : "Mumbai, Maharashtra, India"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=3kON5bAAAAAJ"
@@ -103,14 +103,14 @@ author:
   linkedin         : "ashmichheda"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/9950485/ashmi-chheda"
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "ashmichheda"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
