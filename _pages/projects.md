@@ -21,3 +21,10 @@ A Google Chrome extension to access all the websites I use for daily purposes.<b
 **Technologies**: HTML, CSS, JSON <br/>
 **IDE**: Notepad ++ <br/>
 
+## [Twitter Bot](https://github.com/ashmichheda/twitter-bot)
+My Twitter bot responds to tweets mentioning my account name with the hashtag #helloworld with the text "#helloWorld back to you!". Created this app using the Twitter Developers account to explore the various Twitter APIs and its uses.
+**Keywords**: Bot, Twitter APIs, <br/>
+**Project Timeline**: June 2019 - Current <br/>
+**Technologies**: Python <br/>
+**IDE**: PyCharm <br/>
+
