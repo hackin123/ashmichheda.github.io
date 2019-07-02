@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashmi Chheda"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ashmi Chheda"
 description              : &description "Software Engineer, Accenture"
