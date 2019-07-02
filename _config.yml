@@ -85,8 +85,8 @@ author:
   bio              : "Software Engineer, Accenture"
   location         : "Mumbai, Maharashtra, India"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3kON5bAAAAAJ"
-  email            :
+  #googlescholar    : "https://scholar.google.com/citations?hl=en&user=3kON5bAAAAAJ"
+  email            : "ashmichheda@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Ashmi_Chheda"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   linkedin         : "ashmichheda"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/9950485/ashmi-chheda"
+  #stackoverflow    : "https://stackoverflow.com/users/9950485/ashmi-chheda"
   steam            :
   tumblr           :
   twitter          : "ashmichheda"
