@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ashmi Chheda"
-description              : &description "Software Engineer, Accenture"
-url                      : https://ashmichheda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Saiteja Padakandla"
+description              : &description "Software Engineer, Collins Aerospace"
+url                      : https://hackin123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ashmichheda/ashmichheda.github.io"
+repository               : "hackin123/hackin123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ashmi Chheda"
+  name             : "SaiTeja Padakandla"
   avatar           : "ashmi_profile.jpg"
-  bio              : "M.S. Student in Computer Science at Arizona State University"
+  bio              : "M.S. Student in Computer Engineering(Computer Systems) at Arizona State University"
   location         : "Tempe, AZ"
   employer         :
-  #googlescholar    : "https://scholar.google.com/citations?hl=en&user=3kON5bAAAAAJ"
-  email            : "ashmichheda@gmail.com"
+  #googlescholar    : "spadaka1@asu.edu"
   researchgate     : "https://www.researchgate.net/profile/Ashmi_Chheda"
   uri              :
   bitbucket        :
