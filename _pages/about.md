@@ -10,9 +10,9 @@ redirect_from:
 
 If i were to define myself in one word, I'd say Curious!
 
-I am a first year Masters student in Computer Science at [Arizona State University](https://cidse.engineering.asu.edu/graduate-computer-science/). I am currently seeking Summer 2020 Internship Opportunities. <br/>
-I am a passionate Software Developer diving in the field of Machine Learning. Primarily, my interests lie in Machine Learning, Software Engineering and large-scale system design.
+I am a first year Masters student in Computer Engineering(Computer Systems) at [Arizona State University](https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/ESCENCMS/graduate/false). I am currently seeking Summer 2020 Internship Opportunities. <br/>
+I am a passionate Software Developer diving in the field of Machine Learning. Primarily, my interests lie in Machine Learning, Full stack software Development.
 
-I have 3 years of experience in Software Engineering at [Accenture](https://www.accenture.com/in-en) - developing systems for [J.P. Morgan Chase & Co](https://www.jpmorganchase.com) client, in the Corporate & Investment Banking (CIB) segment. I've worked on different projects using Java J2EE technologies, from building web dashboards, hackathon website and automation framework. I completed my Bachelor of Engineering in Computer Engineering from [K. J. Somaiya College of Engineering](https://www.somaiya.edu/kjsce) in 2016.
+I have 2 years of experience as a Software Developer at [Collins Aerospace](https://www.rockwellcollins.com/) - developing test emulation software for [BOEING](https://www.boeing.com/) client. I've worked on different technologies such as Python,C++,Sql . I have completed my 5years Integrated masters degree in Electrnoics and Communication Systems from [SASTRA University](https://www.sastra.edu/) in 2017.
 
-Apart from work - Sports is an integral part of my life. I've been playing Lawn Tennis since the age of 12 and have won couple of inter-college national level tournaments. A big Rafa and Serena fan! During my free time - I enjoy solving puzzles, do some Competitive Programming and Open Source contributions!
+Apart from work - Sports is an integral part of my life. I play cricket,basketball,football,badminton and workout sometimes - I enjoy solving puzzles, do some Competitive Programming and Open Source contributions!
