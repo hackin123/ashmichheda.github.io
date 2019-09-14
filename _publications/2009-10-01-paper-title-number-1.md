@@ -1,16 +1,33 @@
 ---
-title: "A Study on Vision Based Sign Language Translation"
+title: "Automated Detection of Epilepsy using Wavelet Features"
 collection: publications
-permalink: /publication/VBSLT
-excerpt: 'Vision based sign language translation system performs automatic translation of Indian Sign Language (ISL) into text for the aid in conversation from dumb/mute people to other people.'
-date: 2016-03-01
-venue: 'International Journal of Computer Science and Information Technologies'
-paperurl: 'http://ijcsit.com/docs/Volume%207/vol7issue2/ijcsit2016070224.pdf'
+excerpt: 'Automatic detection of Ictal and Healthy EEG Signals using supervised learning approach in Machine Learning.'
+date: December 2015
+venue: 'Research Journal of Pharmacy and Technology
+paperurl: 'http://rjptonline.org/AbstractView.aspx?PID=2015-8-12-4'
 ---
-This paper is about computer based Vision based sign language translation system for automatic translation of Indian Sign Language (ISL) into text. This will assist the hearing/speech impaired people to significantly communicate with all other people using their hand gestures, and will make the communication effective and efficient. It will also eliminate the need of human translator and will enable the hearing and/or speech impaired people to communicate independently.
+This paper is about application of Machine Learning based supervised learning approach in order to classify the Ictal and EEG signals. Neural network classifier is used for the purpose of classification and set of EEG signals are taken from the large medical database.
+Discrete Wavelet transform is used for feature extraction and confusion matrices are computed in terms of sensitivity,specifity and accuracy once the classification is done.
 
-[Download paper here](http://ashmichheda.github.io/files/VBSLT.pdf)
+[Download paper here](http://hackin123.github.io/files/RJPT_8_12_2015.pdf)
 
-Recommended citation: Prof. Bhakti Palkar, Ashmi Chheda, Siddhi Barbhaya, Janvi Beed, "A Study on Vision Based Sign Language Translation, 2016, International Journal of Computer Science and Information Technologies.
+
+---
+title: "Automated Diagnosis of Epilepsy from EEG Signals using Ensemble Learning Approach"
+collection: publications
+excerpt: 'Entropy based features, higher order Spectra based features and non linear features are used for classification.'
+date: May 2017
+venue: 'Elsevier'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167865517301691'
+---
+EEG signals are non stationary, nonlinear and non Gaussian. In this paper, in order to tackle this problem, 
+we have used three different methods for feature extraction namely wavelet based entropy (approximation entropy, sample entropy, permutation entropy), nonlinear features (Hurst exponent, Higuchi Fractal Dimension) and higher order spectra (mean, normalized entropy-1 and normalized entropy-2). 
+Further multiclass classification using indirect approach with One vs One method is employed using heterogenous ensemble learning approach. Entropy features are used for classifying normal and interictal class using k-Nearest Neighbor. 
+Higher Order Spectra features are used for classifying normal and ictal class using Support Vector Machine with Radial basis function as kernel and non linear features are used for classifying interictal and ictal class using Naive Bayes.
+Final verdict is taken by meta classifier with meta learning algorithm Stacking Correspondence Analysis and Nearest Neighbor (SCANN). 
+The proposed method surpasses the existing methods in literature in terms of sensitivity and specificity.
+
+[Download paper here](http://hackin123.github.io/files/SecondPaper.pdf)
+
 
 
