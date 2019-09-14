@@ -1,13 +1,16 @@
 ---
-title: "Automated Detection of Epilepsy using Wavelet Features"
+title: "A Study on Vision Based Sign Language Translation"
 collection: publications
-excerpt: 'Automatic detection of Ictal and Healthy EEG Signals using supervised learning approach in Machine Learning.'
-date: December 2015
-venue: 'Research Journal of Pharmacy and Technology
-paperurl: 'http://rjptonline.org/AbstractView.aspx?PID=2015-8-12-4'
+permalink: /publication/VBSLT
+excerpt: 'Vision based sign language translation system performs automatic translation of Indian Sign Language (ISL) into text for the aid in conversation from dumb/mute people to other people.'
+date: 2016-03-01
+venue: 'International Journal of Computer Science and Information Technologies'
+paperurl: 'http://ijcsit.com/docs/Volume%207/vol7issue2/ijcsit2016070224.pdf'
 ---
-This paper is about application of Machine Learning based supervised learning approach in order to classify the Ictal and EEG signals. Neural network classifier is used for the purpose of classification and set of EEG signals are taken from the large medical database.
-Discrete Wavelet transform is used for feature extraction and confusion matrices are computed in terms of sensitivity,specifity and accuracy once the classification is done.
+This paper is about computer based Vision based sign language translation system for automatic translation of Indian Sign Language (ISL) into text. This will assist the hearing/speech impaired people to significantly communicate with all other people using their hand gestures, and will make the communication effective and efficient. It will also eliminate the need of human translator and will enable the hearing and/or speech impaired people to communicate independently.
 
-[Download paper here](http://hackin123.github.io/files/RJPT_8_12_2015.pdf)
+[Download paper here](http://ashmichheda.github.io/files/VBSLT.pdf)
+
+Recommended citation: Prof. Bhakti Palkar, Ashmi Chheda, Siddhi Barbhaya, Janvi Beed, "A Study on Vision Based Sign Language Translation, 2016, International Journal of Computer Science and Information Technologies.
+
 
