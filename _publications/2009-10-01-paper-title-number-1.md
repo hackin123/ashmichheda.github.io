@@ -11,6 +11,7 @@ Discrete Wavelet transform is used for feature extraction and confusion matrices
 
 [Download paper here](http://hackin123.github.io/files/RJPT_8_12_2015.pdf)
 
+## 
 ---
 title: "Automated Diagnosis of Epilepsy from EEG Signals using Ensemble Learning Approach"
 collection: publications
