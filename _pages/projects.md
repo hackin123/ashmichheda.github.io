@@ -1,30 +1,26 @@
 ---
 layout: archive
-title: "Projects"
+title: "Certifications/Projects"
 permalink: /projects/
 tagline: What am i building
 ---
 
 
-## [MIT-x Python Programming](https://github.com/ashmichheda/MITx-6.00.1x-python-programming)
-My work developed while learning Python on edX course - Computer Science and Programming using Python.<br/>
+## [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/6VJVZCPRV4MW)
+The primary topics in this part of the specialization are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, contraction algorithm for min cuts).<br/>
 
 **Keywords**: Python <br/>
-**Project Timeline**: January 2019 - Current <br/>
-**Technologies**: Python <br/>
-**IDE**: PyCharm, Jupyter Notebook <br/>
+**Project Timeline**: June 2019 - August 2019 <br/>
+**Technologies**: C++,Python <br/>
+**IDE**: PyCharm, Jupyter Notebook,Dev cpp <br/>
 
-## [Traverse media launcher - Google Chrome Extension](https://github.com/ashmichheda/traverse-media-launcher)
-A Google Chrome extension to access all the websites I use for daily purposes.<br/>
-**Keywords**: Chrome extension <br/>
-**Project Timeline**: December 2018 - December 2018 <br/>
-**Technologies**: HTML, CSS, JSON <br/>
-**IDE**: Notepad ++ <br/>
+## [INTRODUCTION TO TIME FREQUENCYANALYSIS AND WAVELET TRANSFORMS](https://github.com/ashmichheda/traverse-media-launcher)
+Time-frequency analysis (TFA) is concerned with simultaneous analysis of signals in time-and frequency-domains. A widely encountered topic in signal processing, TFA tools are the standard for the analysis of multiscale systems (e.g., speech processing, seismic data analysis, multiscale filtering, etc.). In this course, I learnt about the basic concepts of time-frequency analysis and three widely established methods, namely, the short-time Fourier transform (STFT), Wigner-Ville distributions and wavelet transforms, starting with a review of Fourier transforms. Emphasis was laid on wavelet transforms and their applications. Theoretical concepts are learnt with practical demonstrations in MATLAB at each stage of the course. I used the concepts learnt in this course while publishing the two papers. I have secured place in top 5 performers list in this course.<br/>
+**Keywords**: Wavelet Transforms <br/>
+**Project Timeline**: Jan - March 2015<br/>
+**Technologies**: Matlab <br/>
 
-## [Twitter Bot](https://github.com/ashmichheda/twitter-bot)
-My bot responds to tweets mentioning my account with the questions like 'How are you?' or 'All good?' with the text "I am good!". Created this app with the Twitter Developers account to explore the various Twitter APIs and its uses.
-**Keywords**: Bot, Twitter APIs, <br/>
-**Project Timeline**: June 2019 - Current <br/>
-**Technologies**: Python <br/>
-**IDE**: PyCharm <br/>
+## [Tortuosity measurement in retinal images for early detection of diabetic retinopathy and hypertension]()
+As part of feature extraction and classification set of retinal images of patients are cosnidered and the tortuosity measurement of nerves is done to detect diabetic retinopathy and hypertension at early stages. Matlab image toolbox is used for this project. <br/>
+**Technologies**: Matlab <br/>
 
