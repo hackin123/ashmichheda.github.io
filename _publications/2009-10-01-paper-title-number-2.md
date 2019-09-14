@@ -1,7 +1,7 @@
 ---
 title: "Automated Diagnosis of Epilepsy from EEG Signals using Ensemble Learning Approach"
 collection: publications
-excerpt: 'Entropy based features, higher order Spectra based features and non linear features are used for classification'
+excerpt: 'Entropy based features, higher order Spectra based features and non linear features are used for classification.'
 date: May 2017
 venue: 'Elsevier'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167865517301691'
