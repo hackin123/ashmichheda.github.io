@@ -13,7 +13,7 @@ name                     : &name "Saiteja Padakandla"
 description              : &description "Software Engineer, Collins Aerospace"
 url                      : https://hackin123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hackin123/hackin123.github.io"
+repository               : "saitejapadakandla/saitejapadakandla.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -92,9 +92,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :"SaiTeja PadaKandla"
   foursquare       :
-  github           : "hackin123"
+  github           : "saitejapadakandla"
   google_plus      :
   keybase          :
   instagram        :
